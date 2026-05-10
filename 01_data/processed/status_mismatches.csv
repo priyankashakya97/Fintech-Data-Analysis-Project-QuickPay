@@ -1,2 +1,0 @@
-transaction_id,transaction_date,merchant_id,amount_usd_ledger,status_ledger,payment_method,amount_usd_gateway,status_gateway,amount_difference
-R005,2026-03-03,M004,7200.0,success,Card,7200.0,failed,0.0
