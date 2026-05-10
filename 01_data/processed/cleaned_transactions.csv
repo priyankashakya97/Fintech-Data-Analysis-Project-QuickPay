@@ -1,0 +1,31 @@
+transaction_id,transaction_date,merchant_name,raw_amount,currency,amount_usd,status,risk_score,gateway_region,user_id,user_name,payment_method
+T001,01-03-2026,Alpha Mart,420000,INR,4998,Captured,62,APAC,U001,Aisha Khan,UPI
+T002,01-03-2026,Alpha Mart,210000,INR,2499,Captured,55,REGION_MISSING,U002,Aisha Khan,Card
+T003,01-03-2026,Beta Stores,510000,INR,6069,Captured,71,APAC,U003,Rohan Mehta,NetBanking
+T004,02-03-2026,Beta Stores,160000,INR,1920,Failed E05 Timeout,68,APAC,U004,Rohan Mehta,Card
+T005,02-03-2026,Alpha Mart,390000,INR,4680,Captured,58,REGION_MISSING,U001,Aisha Khan,UPI
+T006,02-03-2026,Beta Stores,275000,INR,3300,Captured,64,REGION_MISSING,U005,Rohan Mehta,Wallet
+T007,02-03-2026,Alpha Mart,450000,INR,5400,Chargeback,83,APAC,U006,Aisha Khan,Card
+T008,03-03-2026,Beta Stores,340000,INR,4114,Captured,59,REGION_MISSING,U007,Rohan Mehta,UPI
+T009,03-03-2026,Alpha Mart,125000,INR,1512.5,Captured,46,APAC,U002,Aisha Khan,Wallet
+T010,03-03-2026,Beta Stores,610000,INR,7381,Captured,77,REGION_MISSING,U003,Rohan Mehta,Card
+T011,03-03-2026,Alpha Mart,195000,INR,2359.5,Failed E05 Timeout,MISSING,REGION_MISSING,U008,Aisha Khan,UPI
+T012,04-03-2026,Beta Stores,250000,INR,3000,Captured,61,APAC,U009,Rohan Mehta,Card
+T013,04-03-2026,Alpha Mart,310000,INR,3720,Captured,54,APAC,U010,Aisha Khan,UPI
+T014,04-03-2026,Beta Stores,470000,INR,5640,Captured,73,APAC,U001,Rohan Mehta,NetBanking
+T015,04-03-2026,Alpha Mart,130000,INR,1560,Captured,52,REGION_MISSING,U002,Aisha Khan,Card
+T016,05-03-2026,Beta Stores,220000,INR,2596,Failed E05 Timeout,69,REGION_MISSING,U008,Rohan Mehta,Card
+T017,05-03-2026,Beta Stores,180000,INR,2124,Failed E05 Timeout,72,APAC,U008,Rohan Mehta,Card
+T018,05-03-2026,Beta Stores,145000,INR,1711,Chargeback,86,APAC,U008,Rohan Mehta,UPI
+T019,05-03-2026,Alpha Mart,260000,INR,3068,Failed E05 Timeout,67,APAC,U008,Aisha Khan,Wallet
+T020,05-03-2026,Alpha Mart,520000,INR,6136,Captured,75,APAC,U005,Aisha Khan,UPI
+T021,06-03-2026,Beta Stores,330000,INR,3927,Captured,63,REGION_MISSING,U006,Rohan Mehta,Card
+T022,06-03-2026,Alpha Mart,410000,INR,4879,Captured,60,APAC,U007,Aisha Khan,UPI
+T023,01-03-2026,City Pharma,5200,EUR,5616,Captured,42,EU,U003,Elena Rossi,Card
+T024,02-03-2026,Eco Home,6100,EUR,6649,Chargeback,65,EU,U004,Nina Weber,Card
+T025,03-03-2026,City Pharma,2800,EUR,3024,Captured,38,EU,U005,Elena Rossi,Wallet
+T026,05-03-2026,Eco Home,3300,EUR,3597,Failed E05 Timeout,44,EU,U006,Nina Weber,NetBanking
+T027,01-03-2026,Delta Travels,7200,USD,7200,Captured,49,US,U007,Marcus Lee,Card
+T028,02-03-2026,Delta Travels,3100,USD,3100,Captured,41,US,U008,Marcus Lee,Card
+T029,04-03-2026,Delta Travels,2500,USD,2500,Chargeback,58,US,U009,Marcus Lee,Wallet
+T030,06-03-2026,Delta Travels,1800,USD,1800,Failed E05 Timeout,47,US,U010,Marcus Lee,UPI

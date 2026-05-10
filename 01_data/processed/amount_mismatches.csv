@@ -1,0 +1,3 @@
+Transaction ID,Ledger Amount,Gateway Amount,Amount Difference,Issue Type
+R002,850.0,900.0,-50.0,AMOUNT MISMATCH
+R008,640.0,600.0,40.0,AMOUNT MISMATCH
